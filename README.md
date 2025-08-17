@@ -2,9 +2,13 @@
 
 This is a backend project built with Express.js.
 It is a simple Quora-like clone for quotes, where users can:
+
 ✍️ Add quotes
+
 👀 View quotes
+
 📝 Edit quotes
+
 ❌ Delete quotes
 
 **🚀 Features**
