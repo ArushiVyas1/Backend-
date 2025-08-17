@@ -1,6 +1,6 @@
 **📚 Backend – Quora Clone (Quotes App)**
 
-This is a backend project built with Express.js.
+This is a backend project built with **Express.js**, **EJS** & **Node.js**.
 It is a simple Quora-like clone for quotes, where users can:
 
 ✍️ Add quotes
@@ -10,6 +10,8 @@ It is a simple Quora-like clone for quotes, where users can:
 📝 Edit quotes
 
 ❌ Delete quotes
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 **🚀 Features**
 
@@ -22,6 +24,8 @@ Organized folder structure (views/, public/)
 Middleware support
 
 Easy to extend and integrate with frontend
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 **🛠️ Tech Stack**
 
