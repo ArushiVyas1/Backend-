@@ -12,13 +12,21 @@ It is a simple Quora-like clone for quotes, where users can:
 ❌ Delete quotes
 
 **🚀 Features**
+
 RESTful API built with Express.js
+
 CRUD operations for managing quotes
+
 Organized folder structure (views/, public/)
+
 Middleware support
+
 Easy to extend and integrate with frontend
 
 **🛠️ Tech Stack**
+
 Node.js
+
 Express.js
+
 Frontend (HTML,CSS)
